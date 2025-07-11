@@ -3,14 +3,21 @@ A machine learning project to classify emails as spam or ham using a Logistic Re
 
 # 🛠️ Technologies Used
 Python
+
 Pandas, NumPy
+
 Scikit-learn
+
 TF-IDF Vectorizer
+
 Jupyter Notebook
+
 Matplotlib & Seaborn (for data exploration)
 
 #📁 Dataset
+
 Dataset used: mail_data.csv
+
 Contains labeled messages with categories: spam and ham
 
 #🚀 Project Workflow
